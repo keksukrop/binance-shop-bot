@@ -169,7 +169,7 @@ bitcoinPayMessage = f"""
 🧑‍💻 [ По любым вопросам касающихся заказа обращайтесь к ОПЕРАТОРУ: @binshop24_op ]
             """
 
-bot = telebot.TeleBot('6399350277:AAH4GytGOkWrV37PiIF9BC3ox31PcXpuDgQ');
+bot = telebot.TeleBot('');
 
 b_menu = 'https://i.ibb.co/YjtkVZv/b-menu.jpg'
 b_shopwindow = 'https://i.ibb.co/nw5xhLn/b-shopwindow.jpg'
